@@ -1,11 +1,8 @@
 // eslint-disable-next-line no-unused-vars
 import { useState } from 'react';
-import { navLinks } from '../Constant';
-// eslint-disable-next-line no-unused-vars
-import { close, menu } from '../assets';
+import { navLinks } from '../constant';
 
 function Navbar() {
-  // eslint-disable-next-line no-unused-vars
   const [toggle, setToggle] = useState(null);
 
   const setNavToggle = (id) => {
