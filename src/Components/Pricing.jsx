@@ -1,6 +1,6 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react';
-import { price } from '../Constant';
+import { price } from '../constant';
 
 function Pricing() {
   return (

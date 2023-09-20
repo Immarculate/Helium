@@ -1,6 +1,6 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react';
-import { learn, involve, social, intouch } from '../Constant';
+import { learn, involve, social, intouch } from '../constant';
 
 function FooterBox() {
   return (
