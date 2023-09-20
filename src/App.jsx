@@ -16,8 +16,8 @@ function App() {
 
   return (
    <div className="overflow-hidden border-transparent">
-      <div className='sticky overflow-hidden'>
-        <Navbar />
+      <div className='sticky relative'>
+        <Navbar className=''/>
       </div>
     <Body />
     <Pricing className='w-full'/>
